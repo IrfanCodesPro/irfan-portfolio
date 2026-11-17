@@ -88,7 +88,7 @@ export const PROFILE = {
   quoteAccent: 'silicon thinks',
   quoteSuffix: ', machines perceive, and code creates real-world change.',
   headline: 'Engineering autonomous AI, IoT hardware, and full-stack software.',
-  lead: 'Final-year B.E Computer Science & Engineering (IoT) student at Paavai Engineering College and Software & AI/ML Lead at Unified Automations & Tech Solutions (UATS). National competition winner building multi-agent AI platforms, computer vision pipelines, and embedded automation systems that work in the real world.',
+  lead: 'Final-year B.E Computer Science & Engineering (IoT) student at Paavai Engineering College, CEO at Nexora Helix and Software & AI/ML Lead at Unified Automations & Tech Solutions (UATS). National competition winner building multi-agent AI platforms, computer vision pipelines, and embedded automation systems that work in the real world.',
   aboutParagraphs: [
     'I am a final-year B.E Computer Science & Engineering (IoT) student at Paavai Engineering College (Anna University), Tamil Nadu — focused on Agentic AI, scalable backend architectures, IoT automation, and practical software delivery.',
     'From winning National-Level Symposiums with autonomous vehicle and smart parking prototypes to having a QR identity verification system achieve Top 3 at the ISRO Project Competition for college deployment, I design systems that move from prototype to production.',
@@ -97,7 +97,7 @@ export const PROFILE = {
   email: 'shairfan2005@gmail.com',
   phone: '+91 7200621273',
   location: 'Kallakurichi, Tamil Nadu, India',
-  organization: 'Unified Automations & Tech Solutions (UATS)',
+  organization: 'Nexora Helix',
   github: 'https://github.com/IrfanCodesPro',
   githubHandle: 'IrfanCodesPro',
   linkedin: 'https://linkedin.com/in/irfan-s-438844300',
