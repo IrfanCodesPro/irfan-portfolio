@@ -178,10 +178,10 @@ export function Hero({ theme, onToggleTheme }: HeroProps) {
               <div className="pointer-events-none absolute inset-x-0 bottom-0 bg-gradient-to-t from-slate-950/88 via-slate-950/48 to-transparent p-4 pt-12">
                 <div className="flex items-end justify-between gap-3 text-[#E9E8F8]">
                   <div>
-                    <p className="text-xs font-mono text-[#8DB9F0]">UATS · Software &amp; AI/ML Lead</p>
+                    <p className="text-xs font-mono text-[#8DB9F0]">Nexora Helix · CEO &amp; AI/ML Lead</p>
                     <p className="text-sm font-bold tracking-tight">B.E CSE (IoT) · Final Year</p>
                   </div>
-                  <p className="font-mono text-xs text-[#F5B69E] tabular-nums shrink-0">CGPA 7.56</p>
+                  <p className="font-mono text-xs text-[#F5B69E] tabular-nums shrink-0"></p>
                 </div>
               </div>
             </div>
