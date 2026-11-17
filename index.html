@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Irfan S — Agentic AI, Full-Stack &amp; IoT Engineer</title>
+    <meta
+      name="description"
+      content="Modern responsive portfolio for Irfan S — Agentic AI Developer, AI/ML Engineer, Full-Stack & IoT Innovator with tactile neumorphic UI/UX and accessible dark mode."
+    />
+    <meta property="og:title" content="Irfan S — Agentic AI, Full-Stack & IoT Engineer" />
+    <meta
+      property="og:description"
+      content="Portfolio of Irfan S: Agentic AI systems, computer vision, IoT automation, robotics, and full-stack engineering."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('irfan-portfolio-theme');
+          var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (saved === 'dark' || (!saved && prefersDark)) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
