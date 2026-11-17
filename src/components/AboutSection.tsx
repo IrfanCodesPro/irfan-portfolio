@@ -12,6 +12,13 @@ const HIGHLIGHTS = [
   {
     icon: Cpu,
     eyebrow: 'Leadership',
+    title: 'CEO & AI/ML Lead · Nexora Helix',
+    detail: 'Building AutoDev AI & BLACKBOX-AI agentic production systems',
+  },
+
+  {
+    icon: Cpu,
+    eyebrow: 'Leadership',
     title: 'Software & AI/ML Lead · UATS',
     detail: 'Building AutoDev AI & BLACKBOX-AI agentic production systems',
   },
