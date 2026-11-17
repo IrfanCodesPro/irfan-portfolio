@@ -79,7 +79,7 @@ export interface InfoRow {
 }
 
 export const PROFILE = {
-  name: 'Irfan S',
+  name: 'Irfan.S',
   shortName: 'Irfan',
   monogram: 'IS.',
   title: 'Agentic AI Developer · AI/ML Engineer · Full-Stack Developer',
