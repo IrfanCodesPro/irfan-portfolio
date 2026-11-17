@@ -64,9 +64,6 @@ export function Hero({ theme, onToggleTheme }: HeroProps) {
 
               <h1 className="mt-3 text-[clamp(3rem,6.4vw,5.25rem)] font-extrabold leading-[0.95] tracking-tight text-[var(--text-primary)]">
                 IRFAN <span className="text-[var(--accent-ink)]">S</span>
-                
-                  
-                </span>
               </h1>
 
               <p className="mt-4 text-lg sm:text-xl font-semibold tracking-tight text-[var(--text-primary)] text-balance max-w-xl">
