@@ -16,6 +16,12 @@ const HIGHLIGHTS = [
     detail: 'Building AutoDev AI & BLACKBOX-AI agentic production systems',
   },
   {
+    icon: Cpu,
+    eyebrow: 'Team Work',
+    title: 'Software & AI/ML Lead ·UATS',
+    detail: 'Building AutoDev AI & BLACKBOX-AI agentic production systems',
+  },
+  {
     icon: Briefcase,
     eyebrow: 'Industry Experience',
     title: '3D Printz · Rajshree Sugars · EduSkills',
