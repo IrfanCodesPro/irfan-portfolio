@@ -92,7 +92,7 @@ export const PROFILE = {
   aboutParagraphs: [
     'I am a final-year B.E Computer Science & Engineering (IoT) student at Paavai Engineering College (Anna University), Tamil Nadu — focused on Agentic AI, scalable backend architectures, IoT automation, and practical software delivery.',
     'From winning National-Level Symposiums with autonomous vehicle and smart parking prototypes to having a QR identity verification system achieve Top 3 at the ISRO Project Competition for college deployment, I design systems that move from prototype to production.',
-    'Alongside academic research — including co-authoring an IEEE paper on Reality-Aware Agentic Surveillance (RAASC) — I co-lead Unified Automations & Tech Solutions (UATS) as Software & AI/ML Lead and have been recognized by three industry CEOs for innovations in AI and IoT.',
+    'Alongside academic research — including co-authoring an IEEE paper on Reality-Aware Agentic Surveillance (RAASC) — I lead Nexora Helix as CEO - I co lead Unified Automations & Tech Solutions (UATS) as Software & AI/ML Lead and have been recognized by three industry CEOs for innovations in AI and IoT.',
   ],
   email: 'shairfan2005@gmail.com',
   phone: '+91 7200621273',
@@ -653,7 +653,7 @@ export const EXPERIENCE: ExperienceItem[] = [
   {
     period: 'Present',
     role: 'CEO & AI/ML Lead',
-    organization: 'NEXORAHELIX,
+    organization: 'NEXORAHELIX',
     location: 'Tamil Nadu, India',
     summary:
       'Co-leading engineering and product direction for agentic AI systems and intelligent automation tools built for real-world deployment.',
@@ -665,7 +665,7 @@ export const EXPERIENCE: ExperienceItem[] = [
   {
     period: 'Present',
     role: 'software & AI/ML Lead',
-    organization: 'UATS,
+    organization: 'UATS',
     location: 'Tamil Nadu, India',
     summary:
       'Co-leading engineering and product direction for agentic AI systems and intelligent automation tools built for real-world deployment.',
