@@ -652,8 +652,20 @@ export const EXPERTISE_DOMAINS: ExpertiseDomain[] = [
 export const EXPERIENCE: ExperienceItem[] = [
   {
     period: 'Present',
-    role: 'Software & AI/ML Lead',
-    organization: 'Unified Automations & Tech Solutions (UATS)',
+    role: 'CEO & AI/ML Lead',
+    organization: 'NEXORAHELIX,
+    location: 'Tamil Nadu, India',
+    summary:
+      'Co-leading engineering and product direction for agentic AI systems and intelligent automation tools built for real-world deployment.',
+    outcomes: [
+      'Architected AutoDev AI (6-agent autonomous code generator reducing dev effort by 80%+)',
+      "Engineered BLACKBOX-AI real-time agentic surveillance system (3rd Place, KANAM'26 Expo)",
+    ],
+  },
+  {
+    period: 'Present',
+    role: 'software & AI/ML Lead',
+    organization: 'UATS,
     location: 'Tamil Nadu, India',
     summary:
       'Co-leading engineering and product direction for agentic AI systems and intelligent automation tools built for real-world deployment.',
