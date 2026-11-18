@@ -97,7 +97,7 @@ export const PROFILE = {
   email: 'shairfan2005@gmail.com',
   phone: '+91 7200621273',
   location: 'Kallakurichi, Tamil Nadu, India',
-  organization: 'Nexora Helix',
+  organization:'Nexora Helix',
   github: 'https://github.com/IrfanCodesPro',
   githubHandle: 'IrfanCodesPro',
   linkedin: 'https://linkedin.com/in/irfan-s-438844300',
