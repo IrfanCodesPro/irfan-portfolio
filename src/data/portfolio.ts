@@ -764,7 +764,7 @@ export const CERTIFICATIONS: CertificationItem[] = [
 export const INFO_ROWS: InfoRow[] = [
   { label: 'Full Name', value: 'Irfan S' },
   { label: 'Role', value: 'Agentic AI Developer · AI/ML Engineer · Full-Stack & IoT Engineer' },
-  { label: 'Organization', value: 'Unified Automations & Tech Solutions (UATS) — Software & AI/ML Lead' },
+  { label: 'Organization', value: 'Nexora Helix — CEO & AI/ML Lead' },
   { label: 'College', value: 'Paavai Engineering College, Namakkal' },
   { label: 'University', value: 'Anna University' },
   { label: 'Degree', value: 'B.E — Computer Science & Engineering (IoT)' },
